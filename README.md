@@ -13,7 +13,7 @@ My notes, code, and homework solutions for [LLM Zoomcamp](https://github.com/Dat
 | Module | Status |
 |---|---|
 | [01-agentic-rag](./01-agentic-rag) | ✅ Done |
-| 02-vector-search | ⏳ Not started |
+| [02-vector-search](./02-vector-search) | ✅ Done |
 | 03-orchestration | ⏳ Not started |
 | 04-evaluation | ⏳ Not started |
 | 05-monitoring | ⏳ Not started |
